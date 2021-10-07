@@ -7,6 +7,8 @@
   - [Retirement Titles (csv)](./data/retirement_titles.csv)
   - [Retiring Titles (csv)](./data/retiring_titles.csv)
   - [Unique Titles (csv)](./data/unique_titles.csv)
+  - [ERD (png)](./EmployeeDB.png)
+
 - Software:
   - PostgreSQL 12
   - pgAdmin 4
@@ -39,15 +41,19 @@ Determine the number of retiring employees per title, and identify employees who
 
 - Of the current total employed work-force of 240,124 employees(**), 90,398 or roughly 37% is set to retire.
 ![Retirers (png)](./analysis/unique_titles.png)
-  - [Retirers (png)](./analysis/unique_titles.png)
+
+- [Retirers (png)](./analysis/unique_titles.png)
 
 **Q2)** Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 - For people hired within the last year, there are sufficient numbers of Mentors within similar job titles.
 ![Mentors (png)](./analysis/mentor_ready_titles.png)
-  - [Mentors (png)](./analysis/mentor_ready_titles.png)
-![New Hires (png)](./analysis/new_hires_titles.png)
-  - [New Hires (png)](./analysis/new_hires_titles.png)
+
+- [Mentors (png)](./analysis/mentor_ready_titles.png)
+
+![New Hires (png)](./analysis/new_hire_titles.png)
+
+- [New Hires (png)](./analysis/new_hire_titles.png)
 
 ___
 
