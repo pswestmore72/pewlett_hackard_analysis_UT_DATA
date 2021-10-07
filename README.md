@@ -40,6 +40,7 @@ Determine the number of retiring employees per title, and identify employees who
 **Q1)** How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
 - Of the current total employed work-force of 240,124 employees(**), 90,398 or roughly 37% is set to retire.
+
 ![Retirers (png)](./analysis/unique_titles.png)
 
 - [Retirers (png)](./analysis/unique_titles.png)
@@ -47,6 +48,7 @@ Determine the number of retiring employees per title, and identify employees who
 **Q2)** Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 - For people hired within the last year, there are sufficient numbers of Mentors within similar job titles.
+
 ![Mentors (png)](./analysis/mentor_ready_titles.png)
 
 - [Mentors (png)](./analysis/mentor_ready_titles.png)
